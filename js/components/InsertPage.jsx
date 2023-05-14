@@ -33,9 +33,7 @@ export default function InsertPage() {
 	return (
 		<section className={"bg-white"}>
 			<div className={"container px-6 py-10 mx-auto"}>
-				<h1 className={"w-[500px] mx-auto text-center text-6xl font-bold text-blue-600"}>Insert your fun fact</h1>
-				<p className={"w-[1000px] mx-auto text-center mt-4 text-3xl text-blue-600"}>This is where you can insert your fun fact</p>
-
+				<h1 className={"w-[500px] mx-auto text-center text-6xl font-bold text-blue-600"}>Adauga nota aici</h1>
 				<form>
 					<div className="mb-6">
 						<label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Student name</label>
