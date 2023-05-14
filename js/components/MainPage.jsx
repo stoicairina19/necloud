@@ -42,7 +42,7 @@ export default function MainPage() {
 	return (
 		<section className={"bg-white"}>
 			<div className={"container px-6 py-10 mx-auto"}>
-				<h1 className={"w-[500px] mx-auto text-center text-6xl font-bold text-blue-600"}>Catalog Student</h1>
+				<h1 className={"w-[500px] mx-auto text-center text-6xl font-bold text-blue-600"}>Catalog Studenti</h1>
 				<p className={"w-[1000px] mx-auto text-center mt-4 text-3xl text-blue-600"}>Notele tale sunt aici!</p>
 
 				<div className={"grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 sm:grid-cols-2 xl:grid-cols-4 lg:grid-cols-3"}>
